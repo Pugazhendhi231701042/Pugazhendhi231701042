@@ -1,7 +1,7 @@
 # Hi there, I'm Pugazhendhi B 👋
 
 🎓 Pre-Final Year B.E Computer Science & Design student at **Rajalakshmi Engineering College, Chennai**  
-💡 Passionate about **Programming, Web Development, and UI/UX Designing**  
+💡 Passionate about **Programming, Web Development, UI/UX Designing, Graphic Designing & 3D Modeling**  
 🎯 Aspiring to become a **Creative Software Engineer blending Tech + Design**
 
 ---
